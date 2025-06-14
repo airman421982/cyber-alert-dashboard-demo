@@ -1,0 +1,37 @@
+[
+    {
+        "timestamp": "2025-06-13T10:24:00Z",
+        "source_ip": "192.168.1.101",
+        "destination_ip": "8.8.8.8",
+        "alert_type": "DNS Tunneling",
+        "port": 53
+    },
+    {
+        "timestamp": "2025-06-13T10:25:00Z",
+        "source_ip": "10.0.0.55",
+        "destination_ip": "45.33.32.156",
+        "alert_type": "Suspicious SSH Activity",
+        "port": 22
+    },
+    {
+        "timestamp": "2025-06-13T10:26:00Z",
+        "source_ip": "172.16.0.10",
+        "destination_ip": "185.199.108.153",
+        "alert_type": "Malware Beaconing",
+        "port": 443
+    },
+    {
+        "timestamp": "2025-06-13T10:27:00Z",
+        "source_ip": "10.0.0.12",
+        "destination_ip": "34.117.59.81",
+        "alert_type": "Credential Access Attempt",
+        "port": 3389
+    },
+    {
+        "timestamp": "2025-06-13T10:28:00Z",
+        "source_ip": "192.168.1.105",
+        "destination_ip": "23.95.240.55",
+        "alert_type": "Port Scan Detected",
+        "port": 8080
+    }
+]
